@@ -1,0 +1,11 @@
+.about-us{
+    color: blue;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.content{
+    float: left;
+    width: 50;
+    margin-right: 140px;
+}
